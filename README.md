@@ -38,3 +38,23 @@ This repo contains the answers to the git exercices
 - git diff main..ft/service-redesign
 - git merge main
 - git push
+
+## Exercice Three (Bundle Two)
+
+- git switch main
+- git switch -c ft/team-page
+- git add .
+- git commit -m "team branch"
+- git push
+- git switch main
+- git switch -c ft/contact-page
+- git switch ft/team-page
+- git log
+- git cherry-pick commit_hash
+- git add .
+- git commit -m "used cherry pick"
+- git push
+- git switch -c ft/faq-page
+- git add .
+- git commit -m "some changes"
+- git revert commit_hash
