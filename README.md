@@ -22,3 +22,19 @@ This repo contains the answers to the git exercices
 - git add .
 - git commit -m "bundle branch"
 - git push -u origin ft/bundle-2
+
+## Exercice Two (Bundle Two)
+
+- git switch main
+- git switch -c ft/service-redesign
+- git add .
+- git commit -m "redesign branch"
+- git push
+- git switch main
+- git add .
+- git commit -m "new changes"
+- git push
+- git switch ft/service-redesign
+- git diff main..ft/service-redesign
+- git merge main
+- git push
