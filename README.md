@@ -15,3 +15,10 @@ This repo contains the answers to the git exercices
 - git switch -c test
 - git switch dev
 - git branch -D test
+
+## Exercice One (Bundle Two)
+
+- git switch -c ft/bundle-2
+- git add .
+- git commit -m "bundle branch"
+- git push -u origin ft/bundle-2
