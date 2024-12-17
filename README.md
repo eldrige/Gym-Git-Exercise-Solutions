@@ -39,7 +39,7 @@ This repo contains the answers to the git exercices
 - git merge main
 - git push
 
-## Exercice Three (Bundle Two)
+## Exercice One (Bundle Three)
 
 - git switch main
 - git switch -c ft/team-page
