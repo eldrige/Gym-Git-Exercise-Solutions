@@ -38,3 +38,12 @@ This repo contains the answers to the git exercices
 - git diff main..ft/service-redesign
 - git merge main
 - git push
+
+## Exercice One (Bundle Four)
+
+- git switch main
+- git remote add origin git@github.com:eldrigeGym-git-exercise-solutions-2.git
+- echo "Adding multiple remote" >> home.html
+- git add .
+- git commit -m "multiple remotes"
+- git push origin && git push git-copy
